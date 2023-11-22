@@ -1,1 +1,2 @@
-dev1 has been modified
+dev2 has been modified 1.java
+>>>>>>> dev2
